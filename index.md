@@ -5,6 +5,7 @@
 
 ###### My firstpost is Markdown new_line  
 ###### it's very simple just to add two space when the end of the sentence;  and new line add '#'
+
 ###### for example
 ###### sentence1.'  ' (remove ',')  
 ###### (######)Next Line (remove '(',')')
