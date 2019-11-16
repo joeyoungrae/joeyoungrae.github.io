@@ -9,6 +9,6 @@ My firstpost is how to Markdown input new_line
 it's very simple just to add two space when the end of the sentence;  and new line add '#'
 
  *for example*
- >Hi everyone, Hello world!  (when end of sentence, add two splace)  
+ >Hi everyone, Hello world! + '  '(when end of sentence, add two splace)  
  >Here is next sentence!
  
