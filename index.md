@@ -7,8 +7,7 @@
  
   제 첫번째 포스트는 어떻게 마크다운 문법에서 뉴 라인을 넣는지 입니다. (My firstpost is how to Markdown input new_line)  
   이것은 매우 간단합니다. (it's very simple)  
-  단지 문장의 앞에 두 줄을 넣으면 됩니다. (just to add two space when the end of the sentence;)  
-  그리고 새 줄에 '#'추가하면 됩니다. (and new line add '#')  
+  단지 문장의 맨 뒤에 두 줄을 넣으면 됩니다. (just to add two space when the end of the sentence;)  
 
  *for example*
  >Hi everyone, Hello world! + '  '(when end of sentence, add two space)  
